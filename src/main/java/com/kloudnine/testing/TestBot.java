@@ -6,6 +6,7 @@ package com.kloudnine.testing;
  */
 public class TestBot {
 
+    # create method using gh interface
     public static void main(String[] args) {
 
         String greeting;
