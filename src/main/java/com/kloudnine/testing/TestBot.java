@@ -1,16 +1,21 @@
 package com.kloudnine.testing;
 
 /**
- * Created by Steven on 8/16/2015.
+ * Created by SiLeNCeD on 8/16/2015.
+ * Test Environment
  */
 public class TestBot {
 
     public static void main(String[] args) {
 
-        String greeting = new String();
-        greeting = "Hello";
+        String greeting;
+        String name;
 
-        System.out.println(greeting);
+
+        greeting = "Hello";
+        name = "Tester";
+
+        System.out.println(greeting + " " + name);
 
 
     }
