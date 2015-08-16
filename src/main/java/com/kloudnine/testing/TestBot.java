@@ -6,7 +6,7 @@ package com.kloudnine.testing;
  */
 public class TestBot {
 
-    # create method using gh interface
+    // create comment using gh interface - edited in intellij and sent back
     public static void main(String[] args) {
 
         String greeting;
